@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int _tmain(int argc, _TCHAR* argv[])  //
  char *sStr_Cmd[10] = {0}; 
@@ -23,4 +24,8 @@ int _tmain(int argc, _TCHAR* argv[])  //
 void Test2()
 {
 	printf("revert test2!");
+}
+void Test4()
+{
+        printf("Test4()!");
 }
